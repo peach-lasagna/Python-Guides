@@ -2,14 +2,6 @@
 
 ## установка
 
-_virtualenv_:
-
-```sh
-$ pip install virtualenv
-```
-
-_virtualenvwrapper_:
-
 Linux:
 
 ```sh
