@@ -93,6 +93,6 @@ $
 
 Ссылки:
 
-- [Дока virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html)
+- [Дока virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/)
 - [Pypi](https://pypi.org/project/virtualenvwrapper-win/)
 - [Статья на русском](https://python-scripts.com/virtualenv)
